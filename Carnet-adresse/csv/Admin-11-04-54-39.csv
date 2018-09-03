@@ -1,0 +1,3 @@
+Id,Préfixe,Nom,Prénom,Adresse,"Adresse 2","Code Postal",Ville,Pays,"Numéro de téléphone",Id_User
+5,F,Dupont,Anne,"Batiment C","4 rue des oiseaux",64100,Bayonne,France,612345678,11
+6,M,Test,Jean-test,"3 rue des developpeurs",,75000,Paris,France,712345678,11
