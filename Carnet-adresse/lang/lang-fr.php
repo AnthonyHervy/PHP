@@ -11,7 +11,7 @@
     
     ");
     define('MES_HTML_MAIL_FORVALIDADRESS', "Bonjour,<br /><br />Pour confirmer votre inscription à la lettre d'informations, merci de cliquer sur le lien ci-dessous ou le copier/coller dans votre navigateur internet. <br /><br />");
-    define('MES_MAIL_SUBJECT', "Calliweb test technique : confirmez votre inscription");
+    define('MES_MAIL_SUBJECT', "Carnet d'adresses : confirmez votre inscription");
     //END functions.php
 
     //START index.php
