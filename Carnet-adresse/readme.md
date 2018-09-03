@@ -18,9 +18,13 @@ define('SITEBASE_URL', "http://localhost:8888/REPO/");
 
 
 // Database
+
 $DB_HOST = "localhost";
+
 $DB_USER = "YOUR_USER_DATABASE";
+
 $DB_PASSWORD = "YOUR_USER_PASSWORD";
+
 $DB_NAME = "YOUR_DATABASE";
 
 remplacer par les valeurs correspondantes.
