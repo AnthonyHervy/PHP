@@ -14,7 +14,9 @@ Tools : Jquery
 
 Dans le fichier /inc/conf.php :
 
-define('SITEBASE_URL', "http://localhost:8888/Calliweb/");
+define('SITEBASE_URL', "http://localhost:8888/REPO/");
+
+
 // Database
 $DB_HOST = "localhost";
 $DB_USER = "YOUR_USER_DATABASE";
